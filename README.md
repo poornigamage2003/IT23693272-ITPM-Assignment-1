@@ -12,7 +12,7 @@ The purpose of this assignment is to test how accurately the system converts inf
 
 ## Student Details
 - Student ID: IT23693272
-- Name: Add your full name here
+- Name: Yasuththara B G P
 - Module: IT3040 - ITPM
 - Assignment: Assignment 1 - Option 1
 - Degree Program: BSc (Hons) in Information Technology
